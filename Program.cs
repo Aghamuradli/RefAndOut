@@ -29,7 +29,7 @@ namespace RefOutDifference
             //}
             #endregion
             #region RefReturns
-            ////RefReturns -sadece metodlarda istifade olunur.
+            ////RefReturns - sadece metodlarda istifade olunur.
             ////Metdlar geriye deyer dondure bilir deye obyekt de dondure bilerik . deger tipli degisenleri geriye donderirik.
             //    int a = 5;
             //    int b = X(ref a);
@@ -44,7 +44,7 @@ namespace RefOutDifference
             #endregion
             //------Out Keyword------
             #region MainExpression
-            //Out Keywordu metodlari colden paramtrler uzerinden cole deyer gonderen bir keyworddur.
+            //Out Keywordu - metodlari paramtrler uzerinden cole deyer gonderen bir keyworddur.
             //bir metodda prarametre yaradanda varsayilan olaraq o INPUTdur .
             //Eger bir metodun cole deyer gondermesini isteyirikse o OUTla isarelenmelidir.
 
