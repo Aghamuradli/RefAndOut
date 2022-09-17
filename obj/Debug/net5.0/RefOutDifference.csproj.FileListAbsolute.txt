@@ -1,0 +1,16 @@
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\bin\Debug\net5.0\RefOutDifference.exe
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\bin\Debug\net5.0\RefOutDifference.deps.json
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\bin\Debug\net5.0\RefOutDifference.runtimeconfig.json
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\bin\Debug\net5.0\RefOutDifference.runtimeconfig.dev.json
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\bin\Debug\net5.0\RefOutDifference.dll
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\bin\Debug\net5.0\RefOutDifference.pdb
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\obj\Debug\net5.0\RefOutDifference.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\obj\Debug\net5.0\RefOutDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\obj\Debug\net5.0\RefOutDifference.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\obj\Debug\net5.0\RefOutDifference.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\obj\Debug\net5.0\RefOutDifference.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\obj\Debug\net5.0\RefOutDifference.dll
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\obj\Debug\net5.0\refint\RefOutDifference.dll
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\obj\Debug\net5.0\RefOutDifference.pdb
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\obj\Debug\net5.0\RefOutDifference.genruntimeconfig.cache
+C:\Users\Agamuradov\source\repos\RefOutDifference\RefOutDifference\obj\Debug\net5.0\ref\RefOutDifference.dll
